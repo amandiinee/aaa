@@ -58,7 +58,7 @@ nav ul li a:hover {
     padding:5px;
 }
 .inscription {
-    display: block;
+    display: block; 
     float: right;
     padding-top:44px;
     color: #0065fc;
