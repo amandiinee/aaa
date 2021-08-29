@@ -66,6 +66,7 @@ nav ul li a:hover {
 }
 .logo{
     padding-top:25px;
+    
 }
 
 /*Recherche*/
@@ -414,7 +415,7 @@ footer ul {
     }
     .logo {
         flex-grow: 1;
-        ;
+        
     }
     .leshebergements {           
         width: 100%;
